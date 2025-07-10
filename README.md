@@ -64,5 +64,3 @@ I’m currently seeking **software engineering internships**—especially in **f
 ## ✨ Fun Fact
 
 I like anime, manhwa, music, and sleep.
-
----
