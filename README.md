@@ -49,20 +49,18 @@ I’m currently seeking **software engineering internships**—especially in **f
 
 ## 🛠 Tech Stack
 
-**Languages**: Python, Java, C++, JavaScript  
+**Languages**: Python, C++
 **ML/Data**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, HuggingFace  
 **Web**: React.js, Next.js, Tailwind CSS, HTML/CSS  
 **Tools**: Git/GitHub, Google Colab, Jupyter, Figma, GDB, Valgrind  
-**Platforms**: Vercel, Firebase  
 
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kellyma/)  
-- 📧 Email: your.email@domain.com *(optional)*
 
 ## ✨ Fun Fact
 
-You’ll usually find me sipping on a matcha latte while coding, climbing rocks for self-care, or drawing pixel art inspired by my favorite RPGs like *Omori* 🎨🐈
+I like anime, manhwa, music, and sleep.
 
 ---
 [Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyma626&show_icons=true&theme=tokyonight)
