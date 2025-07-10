@@ -31,7 +31,7 @@ I’m currently seeking **software engineering internships**—especially in **f
 - Created event modals and dynamic components with clean, accessible design  
 - Focused on modularity and responsiveness across devices  
 - **Tech**: React, Tailwind CSS, Next.js  
-- [View project →][(#](https://github.com/acm-ucr/winc-website)
+- [View project →](https://github.com/acm-ucr/winc-website)
 - [Visit site →](https://winc.cs.ucr.edu/)
 
 **🚀 Highlander Space Program Website**  
