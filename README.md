@@ -59,7 +59,7 @@ I’m currently seeking **software engineering internships**—especially in **f
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kellyma626/)
-- 📧 [Email](kellyma.dev@gmail.com)
+- 📧 Email: kellyma.dev@gmail.com
 
 ## ✨ Fun Fact
 
