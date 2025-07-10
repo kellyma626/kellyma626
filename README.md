@@ -31,21 +31,23 @@ I’m currently seeking **software engineering internships**—especially in **f
 - Created event modals and dynamic components with clean, accessible design  
 - Focused on modularity and responsiveness across devices  
 - **Tech**: React, Tailwind CSS, Next.js  
-- [View project →](#)
+- [View project →][(#](https://github.com/acm-ucr/winc-website)
+- [Visit site →](https://winc.cs.ucr.edu/)
 
 **🚀 Highlander Space Program Website**  
 *Built for UCR’s aerospace club through ACM Web Dev Team*  
 - Developed a reusable site footer and contributed to overall structure and styling  
 - Ensured a mobile-friendly layout and consistent design system  
 - **Tech**: React, Tailwind CSS, Next.js  
-- [View project →](#)
+- [View project →](https://github.com/acm-ucr/hsp-website)
+- [Visit site →](https://hsp.ucrhighlanders.org/)
 
 **🕹️ Cave Adventure RPG**  
 *Team-built C++ terminal game with custom item system*  
 - Engineered an inventory system using OOP, vectors, and dynamic memory  
 - Implemented unit testing with GoogleTest and debugging tools like Valgrind and GDB  
 - **Tech**: C++, GoogleTest, Valgrind  
-- [View project →](#)
+- [View project →](https://github.com/kellyma626/rpg-cave-game)
 
 ## 🛠 Tech Stack
 
