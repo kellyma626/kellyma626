@@ -18,10 +18,10 @@ I’m currently seeking **software engineering internships**—especially in **f
 
 **🖼️ Personal Portfolio**  
 *A responsive website to showcase my work, personality, and design style*  
-- Built a custom gallery that highlights my values and interests across seven themed sections  
-- Designed and coded the entire UI using React, Tailwind, and CSS animations for smooth interaction  
-- Implemented media queries for responsiveness across phones, tablets, and desktops  
-- **Tech**: React, Tailwind CSS, JavaScript, HTML/CSS  
+- Designed and developed a custom personal website from scratch to showcase my projects, skills, and journey in tech
+- Built without frameworks—just raw HTML, CSS, JavaScript, and jQuery—to reinforce my frontend fundamentals and full creative control
+- Crafted with a fun and approachable design to reflect my personality, using animation, interactive elements, and clear navigation
+- **Tech**: HTML, CSS, JavaScript, and jQuery
 - 🌐 [Visit site →](https://kellyma626.github.io)
 
 ## 🚀 Other Projects
