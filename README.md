@@ -22,7 +22,8 @@ I’m currently seeking **software engineering internships**—especially in **f
 - Built without frameworks—just raw HTML, CSS, JavaScript, and jQuery—to reinforce my frontend fundamentals and full creative control
 - Crafted with a fun and approachable design to reflect my personality, using animation, interactive elements, and clear navigation
 - **Tech**: HTML, CSS, JavaScript, and jQuery
-- 🌐 [Visit site →](https://kellyma626.github.io)
+- [View project →](https://github.com/kellyma626/kellyma626.github.io)
+- [Visit site →](https://kellyma626.github.io)
 
 ## 🚀 Other Projects
 
