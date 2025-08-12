@@ -34,7 +34,7 @@ A responsive website showcasing my projects, skills, and personality.
 
 - Built from scratch with raw HTML, CSS, JavaScript, and jQuery for full creative control and solid frontend fundamentals.  
 - Features animations, interactive elements, and clear navigation designed to be approachable and fun.  
-[View project →](https://kellyma.dev)  
+[View project →](https://kellyma626.github.io)  
 
 ---
 
@@ -43,7 +43,7 @@ Developed for UCR’s Women in Computing club via ACM Web Dev Team.
 
 - Created event modals and reusable dynamic components with clean, accessible design.  
 - Focused on modularity and mobile responsiveness.  
-[View project →](https://github.com/kellyma626/winc-website)  
+[View project →](https://github.com/acm-ucr/winc-website)  
 
 ---
 
@@ -52,7 +52,7 @@ Built for UCR’s aerospace club through ACM Web Dev Team.
 
 - Developed reusable site footer and contributed to structure and styling.  
 - Ensured mobile-friendly layout and consistent design system.  
-[View project →](https://github.com/kellyma626/hsp-website)  
+[View project →](https://github.com/acm-ucr/hsp-website)  
 
 ---
 
