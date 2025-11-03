@@ -29,15 +29,6 @@ A React Native app for mood tracking, journaling, and AI chatbot support.
 
 ---
 
-### 🖼️ Personal Portfolio  
-A responsive website showcasing my projects, skills, and personality.
-
-- Built from scratch with raw HTML, CSS, JavaScript, and jQuery for full creative control and solid frontend fundamentals.  
-- Features animations, interactive elements, and clear navigation designed to be approachable and fun.  
-[View project →](https://kellyma626.github.io)  
-
----
-
 ### 🌸 WINC Website  
 Developed for UCR’s Women in Computing club via ACM Web Dev Team.
 
